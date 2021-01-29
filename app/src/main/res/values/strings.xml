@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">다이어리</string>
+
+
+    <string name="next">다음</string>
+    <string name="skip">건너뛰기</string>
+    <string name="start">시작하기</string>
+
+
+    <string name="tutorlal_01">튜토리얼1</string>
+    <string name="tutorlal_02">튜토리얼2</string>
+    <string name="tutorlal_03">튜토리얼3</string>
+
+
+
+        <string name="kakao_app_key">1e13fea193b02fdf3d5737adf5ce987a</string> //카카오
+
+    <string name="naver_client_id">TFdMPdc_WRnMwKlcN7Be</string> //네이버
+    <string name="naver_client_secret">bzQzvFYHzC</string>
+    <string name="naver_client_name">helper</string>
+
+    <string name="facebook_app_id">425762618625730</string>  //페이스북
+    <string name="fb_login_protocol_scheme">fb425762618625730</string>
+
+
+
+
+</resources>

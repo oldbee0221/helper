@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1016661326812",
+    "project_id": "helper-b56e7",
+    "storage_bucket": "helper-b56e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016661326812:android:cb866a25fdea653ba7ad19",
+        "android_client_info": {
+          "package_name": "com.dformula.helper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016661326812-9rms95uic55ac0pksvfhu155duo4qe7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dformula.helper",
+            "certificate_hash": "b445a3e106690cd2551289138ad0cf74eaeada8a"
+          }
+        },
+        {
+          "client_id": "1016661326812-1qq20aapo2mmo9ss0al5b10avdqvm027.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUX2lNv-mWoLdCsC6mHctgNXhz3ojHb1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016661326812-1qq20aapo2mmo9ss0al5b10avdqvm027.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

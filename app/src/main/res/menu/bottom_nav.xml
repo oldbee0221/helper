@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/fragment_menu1"
+        android:icon="@drawable/home2"
+        android:title="홈"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/fragment_menu2"
+        android:icon="@drawable/my2"
+        android:title="캘린더"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/fragment_menu3"
+        android:icon="@drawable/main_person"
+        android:title="게시판"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/fragment_menu4"
+        android:icon="@drawable/main_event"
+        android:title="쇼핑몰"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/fragment_menu5"
+        android:icon="@drawable/main_more"
+        android:title="동네위치"
+        app:showAsAction="never"/>
+
+
+</menu>
